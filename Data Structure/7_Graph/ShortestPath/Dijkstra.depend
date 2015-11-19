@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1439993739 source:e:\study\数据结构\数据结构\data structure\7_graph\dijkstra\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1440085521 source:e:\study\数据结构\数据结构\data structure\8_search\sostree\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<cmath>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1438876073 source:e:\study\数据结构\数据结构\data structure\5_matrix\glist\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
