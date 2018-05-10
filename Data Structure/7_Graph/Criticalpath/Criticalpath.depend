@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1439823379 source:e:\study\数据结构\数据结构\data structure\7_graph\criticalpath\main.cpp
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
-	<stack>
-

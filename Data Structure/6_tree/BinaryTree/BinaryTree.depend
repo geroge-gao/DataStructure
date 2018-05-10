@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1438954672 source:e:\study\数据结构\数据结构\data structure\6_tree\binarytree\main.cpp
-	<iostream>
-	<stdio.h>
-	<stdlib.h>
-	<queue>
-
